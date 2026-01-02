@@ -1,4 +1,4 @@
-# 14-TRANSCENDENCE
+# TRANSCENDENCE
 
 <img src="./assets/demo/accueil.png">
 
